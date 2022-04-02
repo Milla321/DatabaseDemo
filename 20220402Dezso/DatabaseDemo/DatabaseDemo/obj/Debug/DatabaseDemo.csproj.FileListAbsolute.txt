@@ -1,0 +1,11 @@
+C:\Users\diak\source\repos\DatabaseDemo\DatabaseDemo\bin\Debug\DatabaseDemo.exe.config
+C:\Users\diak\source\repos\DatabaseDemo\DatabaseDemo\bin\Debug\DatabaseDemo.exe
+C:\Users\diak\source\repos\DatabaseDemo\DatabaseDemo\bin\Debug\DatabaseDemo.pdb
+C:\Users\diak\source\repos\DatabaseDemo\DatabaseDemo\obj\Debug\DatabaseDemo.csproj.AssemblyReference.cache
+C:\Users\diak\source\repos\DatabaseDemo\DatabaseDemo\obj\Debug\DatabaseDemo.csproj.CoreCompileInputs.cache
+C:\Users\diak\source\repos\DatabaseDemo\DatabaseDemo\obj\Debug\DatabaseDemo.exe
+C:\Users\diak\source\repos\DatabaseDemo\DatabaseDemo\obj\Debug\DatabaseDemo.pdb
+K:\TL\20220402Dezso\DatabaseDemo\DatabaseDemo\obj\Debug\DatabaseDemo.csproj.AssemblyReference.cache
+K:\TL\20220402Dezso\DatabaseDemo\DatabaseDemo\obj\Debug\DatabaseDemo.csproj.CoreCompileInputs.cache
+K:\TL\20220402Dezso\DatabaseDemo\DatabaseDemo\obj\Debug\DatabaseDemo.exe
+K:\TL\20220402Dezso\DatabaseDemo\DatabaseDemo\obj\Debug\DatabaseDemo.pdb
